@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
+* Name: *TRƯƠNG Tuấn Nghia*
+* ID: *BI12-314*
+* Group ID: *IDK*
 
